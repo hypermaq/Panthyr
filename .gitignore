@@ -1,0 +1,9 @@
+*.zip
+*.pyc
+.vscode/
+credentials
+backups/
+scripts/.vscode/
+examples/
+__pycache__/
+php/
